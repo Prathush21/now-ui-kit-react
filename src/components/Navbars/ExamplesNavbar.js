@@ -93,10 +93,10 @@ function ExamplesNavbar() {
               target="_blank"
               id="navbar-brand"
             >
-              Now Ui Kit
+              Segmentation Expert
             </NavbarBrand>
             <UncontrolledTooltip target="#navbar-brand">
-              Designed by Invision. Coded by Creative Tim
+              Designed by SegXperts
             </UncontrolledTooltip>
             <button
               className="navbar-toggler navbar-toggler"

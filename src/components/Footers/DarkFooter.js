@@ -15,7 +15,7 @@ function DarkFooter() {
                 href="https://www.creative-tim.com?ref=nukr-dark-footer"
                 target="_blank"
               >
-                Creative Tim
+                Home
               </a>
             </li>
             <li>
@@ -42,16 +42,14 @@ function DarkFooter() {
             href="https://www.invisionapp.com?ref=nukr-dark-footer"
             target="_blank"
           >
-            Invision
+            SegXperts
           </a>
-          . Coded by{" "}
-          <a
+          {/* <a
             href="https://www.creative-tim.com?ref=nukr-dark-footer"
             target="_blank"
           >
             Creative Tim
-          </a>
-          .
+          </a> */}
         </div>
       </Container>
     </footer>
